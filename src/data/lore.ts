@@ -189,8 +189,8 @@ export const GAME_SERIES: GameSeries[] = [
     title: "DEAR MY",
     description: "[IF] 애셔, 네이슨이 등장하는 기억상실 스토리. 본편에서 6년 후의 시점.",
     image: "https://i.postimg.cc/T1qB7PFR/dieo-mai.jpg",
-    safetyLink: "https://share.crack.wrtn.ai/9pgu89z",
-    unsafetyLink: "https://share.crack.wrtn.ai/gohy2l",
+    safetyLink: "https://share.crack.wrtn.ai/i81arv",
+    unsafetyLink: "https://share.crack.wrtn.ai/2hv18t",
     subGames: [
       { id: "dear_my_sub_1", title: "ASHER", description: "[1:1 개인챗] 알파팀, 애셔 셰퍼드.", image: "https://i.postimg.cc/K8XmsK1B/sujeongmein.jpg", safetyLink: "https://share.crack.wrtn.ai/fjxvd1", unsafetyLink: "https://share.crack.wrtn.ai/zc89ji" },
       { id: "dear_my_sub_2", title: "NATHAN", description: "[1:1 개인챗] 베타팀, 네이슨 울프.", image: "https://i.postimg.cc/nL2Zz002/sujeongmein-0004-geulub-6.jpg", safetyLink: "https://share.crack.wrtn.ai/6bskqwi", unsafetyLink: "https://share.crack.wrtn.ai/bgu904" }
@@ -201,10 +201,10 @@ export const GAME_SERIES: GameSeries[] = [
   {
     id: "lamb_garden",
     title: "GARDEN OF LAMB",
-    description: "Classified...",
-    image: "https://i.postimg.cc/02tV83g5/dd.jpg",
-    safetyLink: "https://example.com/lamb_garden/safety",
-    unsafetyLink: "https://example.com/lamb_garden/unsafety",
+    description: "[IF] 블랙오버를 떠난 오스카의 의붓관계 스토리. 본편에서 5년 후의 시점.",
+    image: "https://i.postimg.cc/SNbQXjcT/Kakao-Talk-20260306-142701190.jpg",
+    safetyLink: "https://share.crack.wrtn.ai/9xnzau",
+    unsafetyLink: "https://share.crack.wrtn.ai/s25nbj",
     subGames: [
       { id: "lamb_garden_sub_1", title: "OSCAR", description: "[1:1 개인챗] 알파팀, 오스카 밀러.", image: "https://i.postimg.cc/BQfqmLL4/sujeongmein-0002-geulub-4.jpg", safetyLink: "https://share.crack.wrtn.ai/hzlt6t", unsafetyLink: "https://share.crack.wrtn.ai/ce3jqo" }
     ]
