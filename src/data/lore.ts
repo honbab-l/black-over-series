@@ -213,13 +213,13 @@ export const GAME_SERIES: GameSeries[] = [
   // 12. Double Tap (Bundle - 2 sub-games)
   {
     id: "double_tap",
-    title: "DOUBLE TAP",
-    description: "Classified...",
-    image: "https://i.postimg.cc/02tV83g5/dd.jpg",
-    safetyLink: "https://example.com/double_tap/safety",
-    unsafetyLink: "https://example.com/double_tap/unsafety",
+    title: "AFU",
+    description: "[IF] 에릭, 라울이 등장하는 90년대 범죄 로드무비 로맨스.",
+    image: "https://i.postimg.cc/qgVZYm9C/Kakao-Talk-20260314-193710150-bogsa.webp",
+    safetyLink: "https://share.crack.wrtn.ai/7twf9y",
+    unsafetyLink: "https://share.crack.wrtn.ai/tckgzo",
     subGames: [
-      { id: "double_tap_sub_1", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/double_tap/sub1/safe", unsafetyLink: "https://example.com/double_tap/sub1/unsafe" },
+      { id: "double_tap_sub_1", title: "ERICK", description: "[1:1 개인챗] 알파팀, 에릭 멘데즈.", image: "https://i.postimg.cc/KzKZHtDD/sujeongmein-0001-geulub-3.jpg", safetyLink: "https://share.crack.wrtn.ai/k2piv5", unsafetyLink: "https://share.crack.wrtn.ai/z7aulg" },
       { id: "double_tap_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/double_tap/sub2/safe", unsafetyLink: "https://example.com/double_tap/sub2/unsafe" }
     ]
   },
@@ -227,16 +227,24 @@ export const GAME_SERIES: GameSeries[] = [
   // 13. TEST13
   {
     id: "test_13",
-    title: "LOVE OR DARE",
-    description: "Classified...",
-    image: "https://i.postimg.cc/02tV83g5/dd.jpg",
-    safetyLink: "https://example.com/test_13/safety",
-    unsafetyLink: "https://example.com/test_13/unsafety",
+    title: "YOUNG GUNZ",
+    description: "[IF] 블랙오버 12인이 모두 등장하는 하이틴 캠퍼스물.",
+    image: "https://i.postimg.cc/NFzrfSg5/nyumein.gif",
+    safetyLink: "https://share.crack.wrtn.ai/n9o47q",
+    unsafetyLink: "https://share.crack.wrtn.ai/44bsq4",
     subGames: [
-      { id: "test_13_sub_1", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/test13/sub1/safe", unsafetyLink: "https://example.com/test13/sub1/unsafe" },
-      { id: "test_13_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/test13/sub2/safe", unsafetyLink: "https://example.com/test13/sub2/unsafe" },
-      { id: "test_13_sub_3", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/test13/sub3/safe", unsafetyLink: "https://example.com/test13/sub3/unsafe" },
-      { id: "test_13_sub_4", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/test13/sub4/safe", unsafetyLink: "https://example.com/test13/sub4/unsafe" }
+      { id: "test_13_sub_1", title: "ASHER", description: "[1:1 개인챗] 알파팀, 애셔 셰퍼드.", image: "https://i.postimg.cc/K8XmsK1B/sujeongmein.jpg", safetyLink: "https://share.crack.wrtn.ai/fjxvd1", unsafetyLink: "https://share.crack.wrtn.ai/zc89ji" },
+      { id: "test_13_sub_2", title: "MAX", description: "[1:1 개인챗] 알파팀, 맥스 로저스.", image: "https://i.postimg.cc/LsxKRh88/sujeongmein-0003-geulub-5.jpg", safetyLink: "https://share.crack.wrtn.ai/pkuitg", unsafetyLink: "https://share.crack.wrtn.ai/ao3793" },
+      { id: "test_13_sub_3", title: "OSCAR", description: "[1:1 개인챗] 알파팀, 오스카 밀러.", image: "https://i.postimg.cc/BQfqmLL4/sujeongmein-0002-geulub-4.jpg", safetyLink: "https://share.crack.wrtn.ai/hzlt6t", unsafetyLink: "https://share.crack.wrtn.ai/ce3jqo" },
+      { id: "test_13_sub_4", title: "ERICK", description: "[1:1 개인챗] 알파팀, 에릭 멘데즈.", image: "https://i.postimg.cc/KzKZHtDD/sujeongmein-0001-geulub-3.jpg", safetyLink: "https://share.crack.wrtn.ai/k2piv5", unsafetyLink: "https://share.crack.wrtn.ai/z7aulg" },
+      { id: "test_13_sub_5", title: "NATHAN", description: "[1:1 개인챗] 베타팀, 네이슨 울프.", image: "https://i.postimg.cc/nL2Zz002/sujeongmein-0004-geulub-6.jpg", safetyLink: "https://share.crack.wrtn.ai/6bskqwi", unsafetyLink: "https://share.crack.wrtn.ai/bgu904" },
+      { id: "test_13_sub_6", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub6/safe", unsafetyLink: "https://example.com/tango/sub6/unsafe" },
+      { id: "test_13_sub_7", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub7/safe", unsafetyLink: "https://example.com/tango/sub7/unsafe" },
+      { id: "test_13_sub_8", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub8/safe", unsafetyLink: "https://example.com/tango/sub8/unsafe" },
+      { id: "test_13_sub_9", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub9/safe", unsafetyLink: "https://example.com/tango/sub9/unsafe" },
+      { id: "test_13_sub_10", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub10/safe", unsafetyLink: "https://example.com/tango/sub10/unsafe" },
+      { id: "test_13_sub_11", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub11/safe", unsafetyLink: "https://example.com/tango/sub11/unsafe" },
+      { id: "test_13_sub_12", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub12/safe", unsafetyLink: "https://example.com/tango/sub12/unsafe" }
     ]
   },
 
