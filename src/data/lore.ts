@@ -50,12 +50,12 @@ export const GAME_SERIES: GameSeries[] = [
       { id: "tango_sub_4", title: "ERICK", description: "[1:1 개인챗] 알파팀, 에릭 멘데즈.", image: "https://i.postimg.cc/pXJYGSpj/elig-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/k2piv5", unsafetyLink: "https://share.crack.wrtn.ai/z7aulg" },
       { id: "tango_sub_5", title: "NATHAN", description: "[1:1 개인챗] 베타팀, 네이슨 울프.", image: "https://i.postimg.cc/L8HdwGvF/neiseun-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/6bskqwi", unsafetyLink: "https://share.crack.wrtn.ai/bgu904" },
       { id: "tango_sub_6", title: "VINCENT", description: "[1:1 개인챗] 베타팀, 빈센트 클라인.", image: "https://i.postimg.cc/C1ps6pHD/binsenteu-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/nqp30n", unsafetyLink: "https://example.com/tango/sub6/unsafe" },
-      { id: "tango_sub_7", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub7/safe", unsafetyLink: "https://example.com/tango/sub7/unsafe" },
-      { id: "tango_sub_8", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub8/safe", unsafetyLink: "https://example.com/tango/sub8/unsafe" },
-      { id: "tango_sub_9", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub9/safe", unsafetyLink: "https://example.com/tango/sub9/unsafe" },
-      { id: "tango_sub_10", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub10/safe", unsafetyLink: "https://example.com/tango/sub10/unsafe" },
-      { id: "tango_sub_11", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub11/safe", unsafetyLink: "https://example.com/tango/sub11/unsafe" },
-      { id: "tango_sub_12", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub12/safe", unsafetyLink: "https://example.com/tango/sub12/unsafe" }
+      { id: "tango_sub_7", title: "RAUL", description: "Classified...", image: "https://i.postimg.cc/3w2d2L1s/laul-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub7/safe", unsafetyLink: "https://example.com/tango/sub7/unsafe" },
+      { id: "tango_sub_8", title: "ISAAC", description: "Classified...", image: "https://i.postimg.cc/Pr8ptrZd/aijag-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub8/safe", unsafetyLink: "https://example.com/tango/sub8/unsafe" },
+      { id: "tango_sub_9", title: "BLAKE", description: "Classified...", image: "https://i.postimg.cc/dV5L6kcg/beulleikeu-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub9/safe", unsafetyLink: "https://example.com/tango/sub9/unsafe" },
+      { id: "tango_sub_10", title: "JAY", description: "Classified...", image: "https://i.postimg.cc/s2ZsWvj4/jei-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub10/safe", unsafetyLink: "https://example.com/tango/sub10/unsafe" },
+      { id: "tango_sub_11", title: "JOSHUA", description: "Classified...", image: "https://i.postimg.cc/bJ3CN97B/josyua-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub11/safe", unsafetyLink: "https://example.com/tango/sub11/unsafe" },
+      { id: "tango_sub_12", title: "COLIN", description: "Classified...", image: "https://i.postimg.cc/XNrm7TYR/kollin-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub12/safe", unsafetyLink: "https://example.com/tango/sub12/unsafe" }
     ]
   },
 
@@ -86,8 +86,8 @@ export const GAME_SERIES: GameSeries[] = [
     subGames: [
       { id: "beta_sub_1", title: "NATHAN", description: "[1:1 개인챗] 베타팀, 네이슨 울프.", image: "https://i.postimg.cc/L8HdwGvF/neiseun-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/6bskqwi", unsafetyLink: "https://share.crack.wrtn.ai/bgu904" },
       { id: "beta_sub_2", title: "VINCENT", description: "[1:1 개인챗] 베타팀, 빈센트 클라인.", image: "https://i.postimg.cc/C1ps6pHD/binsenteu-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/nqp30n", unsafetyLink: "https://share.crack.wrtn.ai/s3kwn39" },
-      { id: "beta_sub_3", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/beta/sub3/safe", unsafetyLink: "https://example.com/beta/sub3/unsafe" },
-      { id: "beta_sub_4", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/beta/sub4/safe", unsafetyLink: "https://example.com/beta/sub4/unsafe" }
+      { id: "beta_sub_3", title: "RAUL", description: "Classified...", image: "https://i.postimg.cc/3w2d2L1s/laul-kadeu-umjjal.gif", safetyLink: "https://example.com/beta/sub3/safe", unsafetyLink: "https://example.com/beta/sub3/unsafe" },
+      { id: "beta_sub_4", title: "ISAAC", description: "Classified...", image: "https://i.postimg.cc/Pr8ptrZd/aijag-kadeu-umjjal.gif", safetyLink: "https://example.com/beta/sub4/safe", unsafetyLink: "https://example.com/beta/sub4/unsafe" }
     ]
   },
 
@@ -100,58 +100,21 @@ export const GAME_SERIES: GameSeries[] = [
     safetyLink: "https://example.com/support_team/safety",
     unsafetyLink: "https://example.com/support_team/unsafety",
     subGames: [
-      { id: "support_sub_1", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/support/sub1/safe", unsafetyLink: "https://example.com/support/sub1/unsafe" },
-      { id: "support_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/support/sub2/safe", unsafetyLink: "https://example.com/support/sub2/unsafe" },
-      { id: "support_sub_3", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/support/sub3/safe", unsafetyLink: "https://example.com/support/sub3/unsafe" },
-      { id: "support_sub_4", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/support/sub4/safe", unsafetyLink: "https://example.com/support/sub4/unsafe" }
+      { id: "support_sub_1", title: "BLAKE", description: "Classified...", image: "https://i.postimg.cc/dV5L6kcg/beulleikeu-kadeu-umjjal.gif", safetyLink: "https://example.com/support/sub1/safe", unsafetyLink: "https://example.com/support/sub1/unsafe" },
+      { id: "support_sub_2", title: "JAY", description: "Classified...", image: "https://i.postimg.cc/s2ZsWvj4/jei-kadeu-umjjal.gif", safetyLink: "https://example.com/support/sub2/safe", unsafetyLink: "https://example.com/support/sub2/unsafe" },
+      { id: "support_sub_3", title: "JOSHUA", description: "Classified...", image: "https://i.postimg.cc/bJ3CN97B/josyua-kadeu-umjjal.gif", safetyLink: "https://example.com/support/sub3/safe", unsafetyLink: "https://example.com/support/sub3/unsafe" },
+      { id: "support_sub_4", title: "COLIN", description: "Classified...", image: "https://i.postimg.cc/XNrm7TYR/kollin-kadeu-umjjal.gif", safetyLink: "https://example.com/support/sub4/safe", unsafetyLink: "https://example.com/support/sub4/unsafe" }
     ]
   },
 
-  // 5. Zero Dark Thirty (Bundle - 4 sub-games)
+  // 5. Zero Dark Thirty (Single Game)
   {
     id: "zero_dark_thirty",
     title: "ZERO DARK THIRTY",
     description: "Classified...",
     image: "https://i.postimg.cc/02tV83g5/dd.jpg",
     safetyLink: "https://example.com/zero_dark_thirty/safety",
-    unsafetyLink: "https://example.com/zero_dark_thirty/unsafety",
-    subGames: [
-      { id: "zero_sub_1", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/zero/sub1/safe", unsafetyLink: "https://example.com/zero/sub1/unsafe" },
-      { id: "zero_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/zero/sub2/safe", unsafetyLink: "https://example.com/zero/sub2/unsafe" },
-      { id: "zero_sub_3", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/zero/sub3/safe", unsafetyLink: "https://example.com/zero/sub3/unsafe" },
-      { id: "zero_sub_4", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/zero/sub4/safe", unsafetyLink: "https://example.com/zero/sub4/unsafe" }
-    ]
-  },
-
-  // 6. BAD GUYS (Bundle - 3 sub-games)
-  {
-    id: "bad_guys",
-    title: "BAD GUYS",
-    description: "Classified...",
-    image: "https://i.postimg.cc/02tV83g5/dd.jpg",
-    safetyLink: "https://example.com/bad_guys/safety",
-    unsafetyLink: "https://example.com/bad_guys/unsafety",
-    subGames: [
-      { id: "bad_guys_sub_1", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/bad_guys/sub1/safe", unsafetyLink: "https://example.com/bad_guys/sub1/unsafe" },
-      { id: "bad_guys_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/bad_guys/sub2/safe", unsafetyLink: "https://example.com/bad_guys/sub2/unsafe" },
-      { id: "bad_guys_sub_3", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/bad_guys/sub3/safe", unsafetyLink: "https://example.com/bad_guys/sub3/unsafe" }
-    ]
-  },
-
-  // 7. TASK FORCE (Bundle - 4 sub-games)
-  {
-    id: "task_force",
-    title: "TASK FORCE",
-    description: "Classified...",
-    image: "https://i.postimg.cc/02tV83g5/dd.jpg",
-    safetyLink: "https://example.com/task_force/safety",
-    unsafetyLink: "https://example.com/task_force/unsafety",
-    subGames: [
-      { id: "task_force_sub_1", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/task_force/sub1/safe", unsafetyLink: "https://example.com/task_force/sub1/unsafe" },
-      { id: "task_force_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/task_force/sub2/safe", unsafetyLink: "https://example.com/task_force/sub2/unsafe" },
-      { id: "task_force_sub_3", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/task_force/sub3/safe", unsafetyLink: "https://example.com/task_force/sub3/unsafe" },
-      { id: "task_force_sub_4", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/task_force/sub4/safe", unsafetyLink: "https://example.com/task_force/sub4/unsafe" }
-    ]
+    unsafetyLink: "https://example.com/zero_dark_thirty/unsafety"
   },
 
   // 8. Go Loud (Single Game)
@@ -179,8 +142,8 @@ export const GAME_SERIES: GameSeries[] = [
       { id: "dust_bullet_sub_4", title: "ERICK", description: "[1:1 개인챗] 알파팀, 에릭 멘데즈.", image: "https://i.postimg.cc/pXJYGSpj/elig-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/k2piv5", unsafetyLink: "https://share.crack.wrtn.ai/z7aulg" },
       { id: "dust_bullet_sub_5", title: "NATHAN", description: "[1:1 개인챗] 베타팀, 네이슨 울프.", image: "https://i.postimg.cc/L8HdwGvF/neiseun-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/6bskqwi", unsafetyLink: "https://share.crack.wrtn.ai/bgu904" },
       { id: "dust_bullet_sub_6", title: "VINCENT", description: "[1:1 개인챗] 베타팀, 빈센트 클라인.", image: "https://i.postimg.cc/C1ps6pHD/binsenteu-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/nqp30n", unsafetyLink: "https://share.crack.wrtn.ai/s3kwn39" },
-      { id: "dust_bullet_sub_7", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/dust/sub7/safe", unsafetyLink: "https://example.com/dust/sub7/unsafe" },
-      { id: "dust_bullet_sub_8", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/dust/sub8/safe", unsafetyLink: "https://example.com/dust/sub8/unsafe" }
+      { id: "dust_bullet_sub_7", title: "RAUL", description: "Classified...", image: "https://i.postimg.cc/3w2d2L1s/laul-kadeu-umjjal.gif", safetyLink: "https://example.com/dust/sub7/safe", unsafetyLink: "https://example.com/dust/sub7/unsafe" },
+      { id: "dust_bullet_sub_8", title: "ISAAC", description: "Classified...", image: "https://i.postimg.cc/Pr8ptrZd/aijag-kadeu-umjjal.gif", safetyLink: "https://example.com/dust/sub8/safe", unsafetyLink: "https://example.com/dust/sub8/unsafe" }
     ]
   },
 
@@ -221,7 +184,7 @@ export const GAME_SERIES: GameSeries[] = [
     unsafetyLink: "https://share.crack.wrtn.ai/tckgzo",
     subGames: [
       { id: "double_tap_sub_1", title: "ERICK", description: "[1:1 개인챗] 알파팀, 에릭 멘데즈.", image: "https://i.postimg.cc/pXJYGSpj/elig-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/k2piv5", unsafetyLink: "https://share.crack.wrtn.ai/z7aulg" },
-      { id: "double_tap_sub_2", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/double_tap/sub2/safe", unsafetyLink: "https://example.com/double_tap/sub2/unsafe" }
+      { id: "double_tap_sub_2", title: "RAUL", description: "Classified...", image: "https://i.postimg.cc/3w2d2L1s/laul-kadeu-umjjal.gif", safetyLink: "https://example.com/double_tap/sub2/safe", unsafetyLink: "https://example.com/double_tap/sub2/unsafe" }
     ]
   },
 
@@ -240,12 +203,12 @@ export const GAME_SERIES: GameSeries[] = [
       { id: "test_13_sub_4", title: "ERICK", description: "[1:1 개인챗] 알파팀, 에릭 멘데즈.", image: "https://i.postimg.cc/pXJYGSpj/elig-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/k2piv5", unsafetyLink: "https://share.crack.wrtn.ai/z7aulg" },
       { id: "test_13_sub_5", title: "NATHAN", description: "[1:1 개인챗] 베타팀, 네이슨 울프.", image: "https://i.postimg.cc/L8HdwGvF/neiseun-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/6bskqwi", unsafetyLink: "https://share.crack.wrtn.ai/bgu904" },
       { id: "test_13_sub_6", title: "VINCENT", description: "[1:1 개인챗] 베타팀, 빈센트 클라인.", image: "https://i.postimg.cc/C1ps6pHD/binsenteu-kadeu-umjjal.gif", safetyLink: "https://share.crack.wrtn.ai/nqp30n", unsafetyLink: "https://share.crack.wrtn.ai/s3kwn39" },
-      { id: "test_13_sub_7", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub7/safe", unsafetyLink: "https://example.com/tango/sub7/unsafe" },
-      { id: "test_13_sub_8", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub8/safe", unsafetyLink: "https://example.com/tango/sub8/unsafe" },
-      { id: "test_13_sub_9", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub9/safe", unsafetyLink: "https://example.com/tango/sub9/unsafe" },
-      { id: "test_13_sub_10", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub10/safe", unsafetyLink: "https://example.com/tango/sub10/unsafe" },
-      { id: "test_13_sub_11", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub11/safe", unsafetyLink: "https://example.com/tango/sub11/unsafe" },
-      { id: "test_13_sub_12", title: "NULL", description: "Classified...", image: "https://i.postimg.cc/02tV83g5/dd.jpg", safetyLink: "https://example.com/tango/sub12/safe", unsafetyLink: "https://example.com/tango/sub12/unsafe" }
+      { id: "test_13_sub_7", title: "RAUL", description: "Classified...", image: "https://i.postimg.cc/3w2d2L1s/laul-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub7/safe", unsafetyLink: "https://example.com/tango/sub7/unsafe" },
+      { id: "test_13_sub_8", title: "ISAAC", description: "Classified...", image: "https://i.postimg.cc/Pr8ptrZd/aijag-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub8/safe", unsafetyLink: "https://example.com/tango/sub8/unsafe" },
+      { id: "test_13_sub_9", title: "BLAKE", description: "Classified...", image: "https://i.postimg.cc/dV5L6kcg/beulleikeu-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub9/safe", unsafetyLink: "https://example.com/tango/sub9/unsafe" },
+      { id: "test_13_sub_10", title: "JAY", description: "Classified...", image: "https://i.postimg.cc/s2ZsWvj4/jei-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub10/safe", unsafetyLink: "https://example.com/tango/sub10/unsafe" },
+      { id: "test_13_sub_11", title: "JOSHUA", description: "Classified...", image: "https://i.postimg.cc/bJ3CN97B/josyua-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub11/safe", unsafetyLink: "https://example.com/tango/sub11/unsafe" },
+      { id: "test_13_sub_12", title: "COLIN", description: "Classified...", image: "https://i.postimg.cc/XNrm7TYR/kollin-kadeu-umjjal.gif", safetyLink: "https://example.com/tango/sub12/safe", unsafetyLink: "https://example.com/tango/sub12/unsafe" }
     ]
   },
 
