@@ -42,8 +42,8 @@ export default function GameModal({ game, onClose }: GameModalProps) {
             {/* Parent Game Info */}
             <div className="flex flex-col md:flex-row gap-8 mb-12">
               <div className="w-full md:w-1/3">
-                <div className="aspect-square bg-gray-900 border border-green-500/30 relative overflow-hidden group">
-                  <img src={game.image} alt={game.title} className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity" />
+                <div className="aspect-[2/3] flex items-center justify-center bg-black border border-green-500/30 relative overflow-hidden group">
+                  <img src={game.image} alt={game.title} className="w-full h-full object-contain opacity-80 group-hover:opacity-100 transition-opacity" />
                   <div className="absolute inset-0 bg-green-500/10 mix-blend-overlay"></div>
                 </div>
               </div>
@@ -79,12 +79,12 @@ export default function GameModal({ game, onClose }: GameModalProps) {
                   {game.subGames.map((sub) => (
                     <div key={sub.id} className="border border-white/10 bg-white/5 p-4 hover:border-green-500/30 transition-colors flex flex-col gap-4">
                       <div className="flex gap-4">
-                        {/* Left: Square Image */}
-                        <div className="w-20 h-20 flex-shrink-0 bg-gray-900 border border-white/10 overflow-hidden">
+                        {/* Left: 2:3 Image */}
+                        <div className="w-20 aspect-[2/3] flex items-center justify-center flex-shrink-0 bg-black border border-white/10 overflow-hidden">
                           <img 
                             src={sub.image} 
                             alt={sub.title} 
-                            className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300"
+                            className="w-full h-full object-contain grayscale hover:grayscale-0 transition-all duration-300"
                             referrerPolicy="no-referrer"
                           />
                         </div>

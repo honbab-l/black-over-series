@@ -28,13 +28,13 @@ const GameCard: React.FC<GameCardProps> = ({ game, index, onOpenModal }) => {
 
       {/* Image Container - Clickable for Modal if has subgames */}
       <div 
-        className={`aspect-square w-full overflow-hidden mb-4 relative bg-gray-900 ${hasSubGames ? 'cursor-pointer' : ''}`}
+        className={`aspect-[2/3] flex items-center justify-center w-full overflow-hidden mb-4 relative bg-black ${hasSubGames ? 'cursor-pointer' : ''}`}
         onClick={() => hasSubGames && onOpenModal(game)}
       >
         <img 
           src={game.image} 
           alt={game.title} 
-          className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
+          className="w-full h-full object-contain grayscale group-hover:grayscale-0 transition-all duration-500"
           referrerPolicy="no-referrer"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-60"></div>
